@@ -1,0 +1,6 @@
+{
+    "last-edited": 1511216233, 
+    "description": "Displaying realtime CPU and memory load", 
+    "uuid": "hwmonitor@sylfurd", 
+    "name": "Graphical hardware monitor"
+}
